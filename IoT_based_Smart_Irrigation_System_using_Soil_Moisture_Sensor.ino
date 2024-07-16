@@ -31,7 +31,6 @@ float t;
 void setup() {
 pinMode(motorPin, OUTPUT);
 pinMode(led , OUTPUT);
-pinMode(led,LOW);
 digitalWrite(motorPin, LOW); // keep motor off initally
 dht.begin();
 WiFi.begin(ssid,password);
