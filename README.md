@@ -15,5 +15,6 @@ Optional: Actuators ( lights) for control actions
 ## Project Members
 1.Jilla Kishoran
 ## Output
-![cover video]()
+![cover video](https://github.com/Kishoran/Smart_Irrigation_System_using_Soil_Moisture_Sensor_and_ESP8266_NodeMCU/blob/main/Project%20video%20-%20Made%20with%20Clipchamp_1721155479959.mp4)
 ## Conclusion
+A smart irrigation system utilizing soil moisture sensors and the ESP8266 NodeMCU can efficiently manage water usage by monitoring soil moisture levels in real-time.This system ensures optimal water supply to plants, reducing water wastage and promoting sustainable agricultural practices.The integration of IoT technology allows for remote monitoring and control, providing convenience and enhancing productivity for farmers.Overall, this innovative solution contributes to resource conservation and supports the advancement of precision agriculture.
