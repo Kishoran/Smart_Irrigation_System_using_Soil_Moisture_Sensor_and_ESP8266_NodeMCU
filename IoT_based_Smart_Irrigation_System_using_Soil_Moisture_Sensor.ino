@@ -70,11 +70,7 @@ void loop() {
     digitalWrite(motorPin, LOW);
 
   }
-  // if ((unsigned long)(currentMillis - previousMillis) >= interval) {
-  //   sendThingspeak();
-  //   previousMillis = millis();
-  //   client.stop();
-  // }
+
   ThingSpeak.writeField(myChannelNumber, 1,moisturePercentage, myWriteAPIKey); //Update in ThingSpeak
   delay(2000);
   ThingSpeak.writeField(myChannelNumber, 2,t, myWriteAPIKey); //Update in ThingSpeak
